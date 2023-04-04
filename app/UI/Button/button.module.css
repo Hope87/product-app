@@ -1,0 +1,29 @@
+.btn{
+    padding: 10px 20px;
+    border-radius: 8px;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+.btnSecond{
+    padding: 20px 40px;
+}
+
+
+.btn:nth-child(2){
+    margin-left: 10px;
+}
+
+.red{
+    background: red;
+}
+.green{
+    background: green;
+}
+.blue{
+    background: blue;
+}
+.block{
+    display: block;
+}
